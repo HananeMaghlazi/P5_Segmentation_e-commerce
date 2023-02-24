@@ -16,15 +16,24 @@ Vous utiliserez donc des méthodes non supervisées pour regrouper des clients d
 
 Ces catégories pourront être utilisées par l’équipe Marketing pour mieux communiquer.
 
-La segmentation proposée doit être exploitable et facile d’utilisation par notre équipe Marketing. Elle doit au minimum pouvoir différencier les bons et moins bons clients en termes de commandes et de satisfaction. Nous attendons bien sûr une segmentation sur l’ensemble des clients.
+La segmentation proposée doit être exploitable et facile d’utilisation par notre équipe Marketing. Elle doit au minimum pouvoir différencier les bons et moins bons clients en termes de commandes et de satisfaction. 
 
 Dans un deuxième temps, une fois le modèle de segmentation choisi, nous souhaiterions  que vous nous fassiez une recommandation de fréquence à laquelle la segmentation doit être mise à jour pour rester pertinente, afin de pouvoir effectuer un devis de contrat de maintenance.
 
 #### Livrables :
 
-Un notebook de l'analyse exploratoire (non cleané, pour comprendre votre démarche).
+- Un notebook de l'analyse exploratoire (non cleané, pour comprendre votre démarche).
 
-Un notebook (ou code commenté au choix) d’essais des différentes approches de modélisation (non cleané, pour comprendre votre démarche).
+- Un notebook (ou code commenté au choix) d’essais des différentes approches de modélisation (non cleané, pour comprendre votre démarche).
 
-Un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation.
+- Un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation.
 
+#### Compétences évaluées
+
+- Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
+
+- Évaluer les performances d’un modèle d'apprentissage non supervisé
+
+- Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
+
+- Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
