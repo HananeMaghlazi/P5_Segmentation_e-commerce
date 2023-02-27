@@ -1,4 +1,6 @@
-# P5_Segmentation_e-commerce
+# P5_Segmentation_e-commerce : Segmentez des clients d'un site e-commerce
+
+## Dans le cadre de la formation Data Scientist : Parcours en partenariat avec CentraleSupélec
 
 #### Enoncé :
 
